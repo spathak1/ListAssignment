@@ -1,0 +1,8 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="screen_padding">3dp</dimen>
+    <dimen name="list_item_padding">2dp</dimen>
+    <dimen name="details_screen_padding">5dp</dimen>
+    <dimen name="title_size">18dp</dimen>
+    <dimen name="desc_size">16dp</dimen>
+</resources>

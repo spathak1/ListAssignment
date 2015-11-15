@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_nw_message">Check you network connection and launch again.</string>
+    <string name="progress_message">Downloading Data...</string>
+    <string name="ok">OK</string>
+    <string name="json_path">https://gist.githubusercontent.com/maclir/f715d78b49c3b4b3b77f/raw/8854ab2fe4cbe2a5919cea97d71b714ae5a4838d/items.json</string>
+</resources>
